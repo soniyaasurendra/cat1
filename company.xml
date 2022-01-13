@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="company.xsd">
+
+    <employee>
+        <emp-name>wisley</emp-name>
+        <emp-age>12</emp-age>
+        <emp-salary>70000</emp-salary>
+        <emp-email>wisley@company.com</emp-email>
+        <emp-phone>9125645332</emp-phone>
+        <emp-designation>Senior Analyst</emp-designation>
+    </employee>
+
+    <employee>
+        <emp-name>harshitha</emp-name>
+        <emp-age>26</emp-age>
+        <emp-salary>35000</emp-salary>
+        <emp-email>harshitha@company.com</emp-email>
+        <emp-phone>8764534212</emp-phone>
+        <emp-designation>Manager</emp-designation>
+    </employee>
+
+    <employee>
+        <emp-name>kailey</emp-name>
+        <emp-age>34</emp-age>
+        <emp-salary>54000</emp-salary>
+        <emp-email>kailey@company.com</emp-email>
+        <emp-phone>7654464312</emp-phone>
+        <emp-designation>Analyst</emp-designation>
+    </employee>
+
+    <employee>
+        <emp-name>james</emp-name>
+        <emp-age>43</emp-age>
+        <emp-salary>200000</emp-salary>
+        <emp-email>james@company.com</emp-email>
+        <emp-phone>6754898712</emp-phone>
+        <emp-designation>Developer</emp-designation>
+    </employee>
+
+    <employee>
+        <emp-name>Eric</emp-name>
+        <emp-age>30</emp-age>
+        <emp-salary>42000</emp-salary>
+        <emp-email>eric@company.com</emp-email>
+        <emp-phone>3454231232</emp-phone>
+        <emp-designation>Developer</emp-designation>
+    </employee>
+
+</company>
